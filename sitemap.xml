@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://bestshowerkit.com/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/walk-in-shower-kit-installed.jpg</image:loc>
+      <image:title>Installed walk-in shower kit with low threshold entry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/best-shower-kits.webp</image:loc>
+      <image:title>Modern walk-in shower with stone-look wall panels</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/order-shower-kit-steps.png</image:loc>
+      <image:title>How to order a walk-in shower kit in four steps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://bestshowerkit.com/sitemap.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
