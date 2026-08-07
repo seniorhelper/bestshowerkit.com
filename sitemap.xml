@@ -1,28 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Walk-In Shower Kits -->
   <url>
     <loc>https://bestshowerkit.com/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://bestshowerkit.com/images/walk-in-shower-kit-installed.jpg</image:loc>
-      <image:title>Installed walk-in shower kit with low threshold entry</image:title>
-    </image:image>
-    <image:image>
       <image:loc>https://bestshowerkit.com/images/best-shower-kits.webp</image:loc>
-      <image:title>Modern walk-in shower with stone-look wall panels</image:title>
+      <image:title>Walk-in shower kits in stock sizes and custom configurations</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://bestshowerkit.com/images/order-shower-kit-steps.png</image:loc>
-      <image:title>How to order a walk-in shower kit in four steps</image:title>
+      <image:loc>https://bestshowerkit.com/images/walk-in-shower-kit-installed.jpg</image:loc>
+      <image:title>Installed walk-in shower kit with grab bars and a fold-down seat</image:title>
     </image:image>
   </url>
+
+  <!-- Shower Sizes &amp; Kit Builder -->
+  <url>
+    <loc>https://bestshowerkit.com/shower-sizes/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/best-shower-kits.webp</image:loc>
+      <image:title>Stock walk-in shower kit sizes from 36x36 to 72x48 inches</image:title>
+    </image:image>
+  </url>
+
+  <!-- Barrier-Free Shower Kits -->
+  <url>
+    <loc>https://bestshowerkit.com/barrier-free-shower-kits/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/6032-trench-drain-barrier-free-shower-pan.png</image:loc>
+      <image:title>Barrier-free shower pan with an integrated trench drain threshold</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/6036-barrier-free-traditional-drain.png</image:loc>
+      <image:title>60 by 36 inch barrier-free shower pan with a traditional round centre drain</image:title>
+    </image:image>
+  </url>
+
+  <!-- Shower Pans -->
+  <url>
+    <loc>https://bestshowerkit.com/shower-pans/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/trench-drain-example.png</image:loc>
+      <image:title>Linear trench drain running along the entry edge of a barrier-free shower pan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Shower Wall Panels -->
+  <url>
+    <loc>https://bestshowerkit.com/shower-wall-panels/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/Crestline-wall-kit-panels-installed-example.webp</image:loc>
+      <image:title>Installed Crestline shower wall panel system</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/grey-slate-style-shower-wall-system-close-up.webp</image:loc>
+      <image:title>Grey slate style shower wall panel close-up</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/limestone-style-shower-wall-kit-close-up.webp</image:loc>
+      <image:title>Limestone style shower wall kit close-up</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/grey-marble-style-bath-wall-panels-close-up.webp</image:loc>
+      <image:title>Grey marble style bath wall panel close-up</image:title>
+    </image:image>
+  </url>
+
+  <!-- Tub-to-Shower Conversion -->
+  <url>
+    <loc>https://bestshowerkit.com/tub-to-shower-conversion/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/walk-in-shower-kit-installed.jpg</image:loc>
+      <image:title>Walk-in shower fitted into a former bathtub alcove</image:title>
+    </image:image>
+  </url>
+
+  <!-- What a Walk-In Shower Costs -->
+  <url>
+    <loc>https://bestshowerkit.com/walk-in-shower-cost/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/install-walk-in-shower.webp</image:loc>
+      <image:title>Finished walk-in shower installation</image:title>
+    </image:image>
+  </url>
+
+  <!-- Shower Installation Guide -->
+  <url>
+    <loc>https://bestshowerkit.com/shower-installation/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/install-walk-in-shower.webp</image:loc>
+      <image:title>Walk-in shower kit part way through installation</image:title>
+    </image:image>
+  </url>
+
+  <!-- Commercial &amp; ADA Showers -->
+  <url>
+    <loc>https://bestshowerkit.com/commercial-ada-showers/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/6032-trench-drain-barrier-free-shower-pan.png</image:loc>
+      <image:title>ADA roll-in shower pan with a 0.5 inch trench drain threshold</image:title>
+    </image:image>
+  </url>
+
+  <!-- Site Map -->
   <url>
     <loc>https://bestshowerkit.com/sitemap.html</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
+
+  <!-- ============================================================
+       Utility pages: uncomment each block as the page goes live.
+       Do not list a URL here before it returns 200.
+       ============================================================ -->
+  <!--
+  About Us
+  <url>
+    <loc>https://bestshowerkit.com/about/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  -->
+
+  <!--
+  Contact
+  <url>
+    <loc>https://bestshowerkit.com/contact/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  -->
+
+  <!--
+  Warranty
+  <url>
+    <loc>https://bestshowerkit.com/warranty/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  -->
+
+  <!--
+  Shipping &amp; Returns
+  <url>
+    <loc>https://bestshowerkit.com/shipping-returns/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  -->
+
+  <!--
+  Privacy Policy
+  <url>
+    <loc>https://bestshowerkit.com/privacy/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  -->
+
 </urlset>
