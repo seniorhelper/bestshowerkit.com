@@ -5,7 +5,7 @@
   <!-- Walk-In Shower Kits -->
   <url>
     <loc>https://bestshowerkit.com/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -18,10 +18,118 @@
     </image:image>
   </url>
 
+  <!-- Best Shower Kits 2026 -->
+  <url>
+    <loc>https://bestshowerkit.com/best-shower-kits/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/best-shower-kits.webp</image:loc>
+      <image:title>The six types of shower kit compared head to head</image:title>
+    </image:image>
+  </url>
+
+  <!-- Bestbath Showers -->
+  <url>
+    <loc>https://bestshowerkit.com/bestbath-shower-kits/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/Crestline-wall-kit-panels-installed-example.webp</image:loc>
+      <image:title>Installed Bestbath Crestline shower wall panel system</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/Crestline-GreySlate-Single-Backwall-exp-004-1024x1024.png</image:loc>
+      <image:title>Crestline grey slate single backwall panel system exploded view</image:title>
+    </image:image>
+  </url>
+
+  <!-- Shower Kits for Seniors -->
+  <url>
+    <loc>https://bestshowerkit.com/shower-kits-for-seniors/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/walk-in-shower-kit-installed.jpg</image:loc>
+      <image:title>Accessible walk-in shower with grab bars, seat and low threshold</image:title>
+    </image:image>
+  </url>
+
+  <!-- Custom Shower Kits -->
+  <url>
+    <loc>https://bestshowerkit.com/custom-shower-kits/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/best-shower-kits.webp</image:loc>
+      <image:title>Custom-built walk-in shower kits in a range of sizes and finishes</image:title>
+    </image:image>
+  </url>
+
+  <!-- Shower Kit Materials -->
+  <url>
+    <loc>https://bestshowerkit.com/shower-kit-materials/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/grey-slate-style-shower-wall-system-close-up.webp</image:loc>
+      <image:title>Close-up of a grey slate style shower wall panel surface</image:title>
+    </image:image>
+  </url>
+
+  <!-- Guides index -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Guide: shower kit buying mistakes -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/shower-kit-buying-mistakes/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/walk-in-shower-kit-installed.jpg</image:loc>
+      <image:title>Walk-in shower kit installed after planning the drain and threshold properly</image:title>
+    </image:image>
+  </url>
+
+  <!-- Guide: curbless shower without cutting the floor -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/curbless-shower-existing-floor/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/trench-drain-example.png</image:loc>
+      <image:title>Trench drain at the entry edge of a low-threshold shower pan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Guide: walk-in shower vs walk-in tub -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/walk-in-shower-vs-walk-in-tub/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bestshowerkit.com/images/walk-in-shower-kit-installed.jpg</image:loc>
+      <image:title>Accessible walk-in shower compared with a walk-in tub</image:title>
+    </image:image>
+  </url>
+
   <!-- Shower Sizes &amp; Kit Builder -->
   <url>
     <loc>https://bestshowerkit.com/shower-sizes/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -33,7 +141,7 @@
   <!-- Barrier-Free Shower Kits -->
   <url>
     <loc>https://bestshowerkit.com/barrier-free-shower-kits/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -42,14 +150,14 @@
     </image:image>
     <image:image>
       <image:loc>https://bestshowerkit.com/images/6036-barrier-free-traditional-drain.png</image:loc>
-      <image:title>60 by 36 inch barrier-free shower pan with a traditional round centre drain</image:title>
+      <image:title>60 by 36 inch barrier-free shower pan with a traditional round center drain</image:title>
     </image:image>
   </url>
 
   <!-- Shower Pans -->
   <url>
     <loc>https://bestshowerkit.com/shower-pans/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -61,7 +169,7 @@
   <!-- Shower Wall Panels -->
   <url>
     <loc>https://bestshowerkit.com/shower-wall-panels/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -85,7 +193,7 @@
   <!-- Tub-to-Shower Conversion -->
   <url>
     <loc>https://bestshowerkit.com/tub-to-shower-conversion/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -97,7 +205,7 @@
   <!-- What a Walk-In Shower Costs -->
   <url>
     <loc>https://bestshowerkit.com/walk-in-shower-cost/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -109,7 +217,7 @@
   <!-- Shower Installation Guide -->
   <url>
     <loc>https://bestshowerkit.com/shower-installation/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -121,7 +229,7 @@
   <!-- Commercial &amp; ADA Showers -->
   <url>
     <loc>https://bestshowerkit.com/commercial-ada-showers/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -133,7 +241,7 @@
   <!-- Site Map -->
   <url>
     <loc>https://bestshowerkit.com/sitemap.html</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -146,7 +254,7 @@
   About Us
   <url>
     <loc>https://bestshowerkit.com/about/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
@@ -156,7 +264,7 @@
   Contact
   <url>
     <loc>https://bestshowerkit.com/contact/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
@@ -166,7 +274,7 @@
   Warranty
   <url>
     <loc>https://bestshowerkit.com/warranty/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
@@ -176,7 +284,7 @@
   Shipping &amp; Returns
   <url>
     <loc>https://bestshowerkit.com/shipping-returns/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
@@ -186,7 +294,7 @@
   Privacy Policy
   <url>
     <loc>https://bestshowerkit.com/privacy/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
