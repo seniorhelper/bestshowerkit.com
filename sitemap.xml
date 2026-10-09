@@ -125,6 +125,12 @@
       <image:title>Accessible walk-in shower compared with a walk-in tub</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://bestshowerkit.com/blog/shower-kit-cleaning-care/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
   <!-- Shower Sizes &amp; Kit Builder -->
   <url>
@@ -262,12 +268,6 @@
 
   <!--
   Contact
-  <url>
-    <loc>https://bestshowerkit.com/contact/</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
-  </url>
   -->
 
   <!--
