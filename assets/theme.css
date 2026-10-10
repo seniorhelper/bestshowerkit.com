@@ -442,3 +442,121 @@ figcaption{font-size:.88rem;color:var(--slate);margin-top:10px;line-height:1.5}
 .page-head .btn-ink:hover{background:#E8F2FA;color:var(--ink)}
 .page-head a:not(.btn){color:var(--sky)}
 .page-head strong{color:#fff}
+
+/* ============================================================
+   ROUND 2 (2026-10-10): header v3, BBB seal, value blocks,
+   guide pages. Base rules first, media queries after.
+   ============================================================ */
+body{font-size:18px}
+
+/* header: 280px logo on a white strip, not sticky (the nav row is) */
+.hdr.hdr3{position:relative;top:auto;z-index:121}
+.hdr3 .hdr-in{padding:12px 22px;gap:20px}
+.hdr3 .logo{line-height:0}
+.hdr3 .logo img{width:280px;height:auto;max-width:none;object-fit:contain}
+.hdr3 .hdr-cta{display:flex;align-items:center;gap:18px}
+.hdr3 .hdr-quote{min-height:48px}
+.hdr3 .burger{display:none}
+
+/* BBB seal: official embed, sized by class only */
+.bbb-seal{display:inline-flex;flex:none;line-height:0;border-radius:8px}
+.bbb-seal img{display:block;max-width:none;height:auto}
+.bbb-d img{width:150px;height:49px}
+.bbb-f img,.bbb-q img,.bbb-v img{width:200px;height:65px}
+.bbb-m img{width:150px;height:49px}
+
+/* primary nav row: sticky, full width under the header */
+.navrow{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:118;
+  box-shadow:0 10px 26px -22px rgba(6,24,41,.6)}
+.navrow .nav{display:flex;justify-content:center;flex-wrap:wrap;gap:2px}
+.navrow .nav a{font-size:1rem;padding:12px 12px;min-height:48px;display:flex;align-items:center}
+
+/* phone/tablet BBB strip directly under the header */
+.bbb-row{display:none;background:#fff;border-bottom:1px solid var(--line)}
+.bbb-row .wrap{display:flex;align-items:center;justify-content:center;gap:14px;padding-top:8px;padding-bottom:8px}
+.bbb-row p{margin:0;font-size:.95rem;line-height:1.35;color:#33475F;max-width:190px}
+.bbb-row b{display:block;color:var(--ink);font-family:var(--f-dsp)}
+
+/* footer: transparent logo on the light footer + seal card */
+.ftr img.flogo{width:260px;height:auto;max-width:100%;object-fit:contain}
+.ftr-bbb{display:inline-flex;flex-direction:column;align-items:flex-start;gap:8px;margin-top:22px;padding:14px 16px;
+  background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--sh)}
+.ftr-bbb span{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;color:var(--slate);font-weight:700}
+.ftr-bbb small{font-size:.86rem;color:#4A5F79;max-width:220px;line-height:1.4}
+.ftr .ftr-co a{font-size:.97rem}
+
+/* quote-form trust block */
+.bbb-quote{display:flex;gap:18px;align-items:flex-start;margin-top:26px;padding:20px;border:1px solid var(--line);
+  border-radius:12px;background:linear-gradient(180deg,#fff,#F5F9FC)}
+.bbb-quote b{display:block;font-family:var(--f-dsp);color:var(--ink);font-size:1.05rem;margin-bottom:4px}
+.bbb-quote p{margin:0;color:#3E5069;font-size:1rem;line-height:1.55}
+
+/* homepage value section */
+.value{display:grid;grid-template-columns:1fr 1.25fr;gap:44px;align-items:start}
+.value-card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:26px;box-shadow:var(--sh)}
+.value-card .bbb-seal{margin-bottom:14px}
+.value-card p{color:#3E5069}
+.value-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.value-list li{background:#fff;border:1px solid var(--line);border-left:4px solid var(--aqua);border-radius:12px;padding:18px 18px}
+.value-list b{display:block;font-family:var(--f-dsp);color:var(--ink);margin-bottom:4px}
+.value-list span{display:block;color:#4A5F79;font-size:1rem;line-height:1.5}
+
+/* guide pages */
+.gd-head{display:grid;grid-template-columns:1.25fr .75fr;gap:44px;align-items:center}
+.gd-head figure{margin:0}
+.gd-head figure img{border-radius:12px;aspect-ratio:4/3;object-fit:cover;width:100%}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:26px 0 8px}
+.facts div{border:1px solid var(--line);border-radius:12px;padding:16px 18px;background:#fff}
+.facts b{display:block;font-family:var(--f-dsp);font-size:1.2rem;color:var(--ink)}
+.facts span{display:block;font-size:.98rem;color:#4A5F79;line-height:1.45}
+.srcs{font-size:.98rem;color:#3E5069}
+.srcs li{margin-bottom:8px;word-break:break-word}
+.steps-ol{counter-reset:s;list-style:none;padding:0;margin:0 0 1.2em}
+.steps-ol>li{counter-increment:s;position:relative;padding:0 0 0 54px;margin:0 0 22px}
+.steps-ol>li::before{content:counter(s);position:absolute;left:0;top:0;width:38px;height:38px;border-radius:10px;
+  background:var(--ink);color:#fff;font-family:var(--f-dsp);font-weight:800;display:flex;align-items:center;justify-content:center}
+.contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:22px 0}
+.contact-grid>div{border:1px solid var(--line);border-radius:12px;padding:20px;background:#fff}
+.contact-grid b{display:block;font-family:var(--f-dsp);color:var(--ink);margin-bottom:4px}
+.updated{font-family:var(--f-mono);font-size:.82rem;color:var(--slate);letter-spacing:.04em}
+
+@media (max-width:1240px){
+  .navrow .nav a{padding:12px 8px;font-size:.95rem}
+}
+@media (max-width:1023px){
+  .navrow{display:none}
+  .hdr3 .burger{display:flex}
+  .hdr3 .bbb-d{display:none}
+  .bbb-row{display:block}
+  .hdr3 .logo img{width:250px}
+  .value{grid-template-columns:1fr;gap:28px}
+  .gd-head{grid-template-columns:1fr;gap:28px}
+}
+@media (max-width:900px){
+  .hero-grid .hero-media{order:0}
+}
+@media (max-width:760px){
+  .hdr3 .hdr-quote{display:none}
+  .hdr3 .hdr-cta{gap:10px}
+  .hdr3 .hdr-in{padding:10px 16px;gap:12px}
+  .hdr3 .logo img{width:min(230px,calc(100vw - 110px))}
+  .value-list{grid-template-columns:1fr}
+  .facts{grid-template-columns:1fr}
+  .contact-grid{grid-template-columns:1fr}
+}
+@media (max-width:620px){
+  body{font-size:18px}
+  .hdr3 .logo img{width:min(220px,calc(100vw - 110px));height:auto}
+  .util-l .util-tag+.util-tag,.util .wrap>div:last-child{display:none}
+  .util{padding:7px 0}
+  .ftr img.flogo{width:240px;height:auto}
+  .bbb-quote{flex-direction:column}
+  .steps-ol>li{padding-left:50px}
+}
+@media (min-width:1024px){
+  [id]{scroll-margin-top:64px}
+}
+/* barrier-free drain cards stacked into skyscrapers on phones (pre-existing): one column */
+@media (max-width:760px){
+  main .drains{grid-template-columns:1fr !important}
+}
