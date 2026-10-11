@@ -132,6 +132,38 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Guide: small-bathroom shower kits -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/shower-kit-small-bathroom/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Guide: grab bar placement -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/grab-bar-placement-walk-in-shower/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Guide: built-in vs fold-down seats -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/built-in-vs-fold-down-shower-seat/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Guide: manufactured home showers -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/shower-kit-mobile-manufactured-home/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Shower Sizes &amp; Kit Builder -->
   <url>
     <loc>https://bestshowerkit.com/shower-sizes/</loc>

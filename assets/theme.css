@@ -369,6 +369,7 @@ table.cmp tbody tr:nth-child(even){background:#FAFCFE}
 .midcta h3{color:#fff;margin-bottom:8px}
 .midcta p{color:#C4DCEE;margin-bottom:18px}
 .midcta .btn-row{gap:12px}
+.midcta .btn-out{color:#fff;border-color:rgba(255,255,255,.4);background:rgba(255,255,255,.05)}
 
 /* --- related links --- */
 .rel{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:30px}
@@ -389,6 +390,13 @@ table.cmp tbody tr:nth-child(even){background:#FAFCFE}
 figure{margin:28px 0}
 figure img{border-radius:14px;box-shadow:var(--sh-lg)}
 figcaption{font-size:.88rem;color:var(--slate);margin-top:10px;line-height:1.5}
+
+/* --- in-article diagrams and photos (blog posts) --- */
+.fig-d svg{display:block;width:100%;height:auto;background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:var(--sh)}
+.fig-p img{width:100%;height:auto}
+.fig-p.fig-cut img{background:var(--pan);padding:18px;box-shadow:var(--sh)}
+.fig-p.fig-narrow{max-width:420px}
+.fig-p.fig-small{max-width:260px}
 
 /* --- sticky mobile call bar: conversion floor --- */
 .callbar{display:none}
@@ -560,3 +568,5 @@ body{font-size:18px}
 @media (max-width:760px){
   main .drains{grid-template-columns:1fr !important}
 }
+.bigcta .btn-out{color:#fff;border-color:rgba(255,255,255,.45);background:rgba(255,255,255,.06)}
+.bigcta .btn-out:hover{background:rgba(255,255,255,.14);border-color:#fff;color:#fff}
