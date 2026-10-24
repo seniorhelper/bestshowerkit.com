@@ -156,6 +156,30 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Guide: Lead Times and Delivery Day -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/shower-kit-delivery-lead-time/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Guide: Drain Location -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/shower-kit-drain-location/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Guide: Basement Shower Kits -->
+  <url>
+    <loc>https://bestshowerkit.com/blog/shower-kit-basement-bathroom/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Guide: manufactured home showers -->
   <url>
     <loc>https://bestshowerkit.com/blog/shower-kit-mobile-manufactured-home/</loc>
